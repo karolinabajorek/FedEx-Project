@@ -7,3 +7,5 @@ The company encountered problems with volume volatility - there are days when th
 The dataset consisted of 2, including information about customers, shipments and their origins and destinations, as well as geographical regions and country descriptions.
 
 <img width="624" alt="Screenshot 2025-01-29 at 19 30 26" src="https://github.com/user-attachments/assets/37a871f5-2bbd-4204-bde0-020d8c9e88eb" />
+
+## Insights Summary
