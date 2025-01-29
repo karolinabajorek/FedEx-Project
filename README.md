@@ -35,7 +35,7 @@ The dataset consisted of 2, including information about customers, shipments and
 * **Negotiate a flexible shipping agreement** - where Customers B and A allow shifting some priority shipments to next-day flights during peak times.
 * **Encourage redistribution of shipments** by promoting and offering price incentives on alternate lanes where feasible for economy shipments. These could free up capacity for priority products on transatlantic lanes.
 ## Dashboard
-The dashboard can be found in Tableau Public [here](url). This dashboard enables users to filter by customer, linehaul type, linehaul, service type and priority and focuses on trends and values on customer, service and lane levels.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/karolina.bajorek/viz/FedexAnalysisFinal/Dashboard1). This dashboard enables users to filter by customer, linehaul type, linehaul, service type and priority and focuses on trends and values on customer, service and lane levels.
 ![Dashboard 1](https://github.com/user-attachments/assets/602534e6-3433-4e4d-9c26-aae45bdf81ac)
 
 
