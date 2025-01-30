@@ -39,7 +39,7 @@ The dataset consisted of 2 tables, including information about customers, shipme
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/karolina.bajorek/viz/FedexAnalysisFinal/Dashboard1). This dashboard enables users to filter by customer, linehaul type, linehaul, service type and priority and focuses on trends and values on customer, service and lane levels.
 ![Dashboard 1](https://github.com/user-attachments/assets/602534e6-3433-4e4d-9c26-aae45bdf81ac)
 ## Presentation Sample
-The presentation created for the commercial execution team walks through the insights and recommendations above and can be found [here]([url](https://github.com/karolinabajorek/FedEx-Project/blob/main/FedEx%20Project.pdf)). Some extracts are presented below for easy viewing.
+The presentation created for the commercial execution team walks through the insights and recommendations above and can be found [here](https://github.com/karolinabajorek/FedEx-Project/blob/main/FedEx%20Project.pdf). Some extracts are presented below for easy viewing.
 
 <img width="1156" alt="Screenshot 2025-01-30 at 14 37 02" src="https://github.com/user-attachments/assets/00dd5ab3-5b22-4e00-8efe-86d188958ff4" />
 <img width="1183" alt="Screenshot 2025-01-30 at 14 37 18" src="https://github.com/user-attachments/assets/9d413e04-0fa3-4047-8991-e01cd2f65473" />
