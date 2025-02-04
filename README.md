@@ -6,7 +6,8 @@ The company encountered problems with volume volatility - there are days when th
 ## Dataset Structure
 The dataset consisted of 2 tables, including information about customers, shipments and their origins and destinations, as well as geographical regions and country descriptions.
 
-<img width="624" alt="Screenshot 2025-01-29 at 19 30 26" src="https://github.com/user-attachments/assets/37a871f5-2bbd-4204-bde0-020d8c9e88eb" />
+<img width="632" alt="Screenshot 2025-02-04 at 06 11 44" src="https://github.com/user-attachments/assets/4b1e1180-2aeb-4099-8f4a-e567c0e97ea9" />
+
 
 ## Insights Summary
 #### In order to evaluate lane performance, I focused on the following key metrics:
